@@ -1,0 +1,57 @@
+<div id="applicationshub">
+<div class="application_wrapper">
+<div class="appreq">
+<h3><a href="staffapp" rel="nofollow noopener" target="_blank">Staff Application Requirements</a></h3>
+<ul>
+<li>Must be at least 13 years old (No exceptions)</li>
+<li>Must be Fluent in spoken and written English</li>
+<li>Must have a working microphone and access to discord</li>
+<li>Must have at least 10 hours logged on the server</li>
+<li>Ability to record videos at a minimum of 720p @ 30 fps</li>
+<li>You must put a high level of effort into your application</li>
+<li>You must be honest in your application</li>
+<li>Have no punishments in the last 2 weeks before applying</li>
+</ul>
+</div>
+</div>
+<div class="application_wrapper">
+<div class="appreq">
+<h3><a href="devapp" rel="nofollow noopener" target="_blank">Developer Application Requirements</a></h3>
+<ul>
+<li>Must be at least 15 years old</li>
+<li>Must be Fluent in spoken and written English</li>
+<li>Must have a working microphone and access to discord</li>
+<li>Must have at least 10 hours logged on the server</li>
+<li>Must not be currently staff on any other minecraft server</li>
+<li>For Minecraft: Must know Java and/or Skript</li>
+<li>For Website: Must know HTML, CSS, JavaScript, PHP, or TPL</li>
+<li>For Discord: Must know Python</li>
+</ul>
+</div>
+</div>
+<div class="application_wrapper">
+<div class="appreq">
+<h3><a href="builderapp" rel="nofollow noopener" target="_blank">Builder Application Requirements</a></h3>
+<ul>
+<li>Must be at least 14 years old (No exceptions)</li>
+<li>Must be Fluent in spoken and written English</li>
+<li>Must have a working microphone and access to discord</li>
+<li>Must have at least 10 hours logged on the server</li>
+<li>Must provide previous builds that you have done or a portfolio</li>
+</ul>
+</div>
+</div>
+<div class="application_wrapper">
+<div class="appreq">
+<h3><a href="mediaapp" rel="nofollow noopener" target="_blank">Content Creator Application Requirements</a></h3>
+<ul>
+<li>Must be at least 13 years old (No exceptions)</li>
+<li>Must have a minimum of 100 followers</li>
+<li>Must post at least 3 videos or stream at least 3 times per month on Bagells</li>
+<li>You have streamed or posted videos in the past before applying</li>
+<li>No previous bans or blacklists within a 1 month of applying</li>
+<li>No previous mutes within 1 week of applying</li>
+</ul>
+</div>
+</div>
+</div>

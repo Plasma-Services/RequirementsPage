@@ -1,0 +1,57 @@
+/* REQUIREMENTS PAGE */
+#applicationshub {
+    text-align: center;
+    margin-top: 40px;
+}
+.application_wrapper {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+a.applicationlink {
+    display: inline-block;
+    padding: 20px;
+    width: 300px;
+    justify-content: center;
+    flex-direction: column;
+    background: rgba(255,255,255,0.1);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.21);
+    color: #667290;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 700;
+    transition: all .25s ease-in-out;
+    -moz-transition: all .25s ease-in-out;
+    -webkit-transition: all .25s ease-in-out;
+}  
+a.applicationlink:hover {
+    color: var(--main-color);
+    background: rgba(255,255,255,0.3);
+} 
+.appreq ul {
+    margin: 0;
+    padding: 0;
+}
+.appreq ul li, .appreq h3 {
+    display: flex;
+    padding: 5px;
+    width: 330px;
+    border-radius: 3px;
+    justify-content: center;
+    flex-direction: column;
+    background: var(--theme-border-light);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.21);
+    color: var(--theme-text-color);
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.appreq h3 {
+    color: var(--main-color);
+    font-size: 18px;
+    background: none;
+    box-shadow: none;
+    margin-bottom: 20px;
+}
